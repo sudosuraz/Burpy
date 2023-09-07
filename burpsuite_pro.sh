@@ -2,8 +2,8 @@
 
 ##############################################################
 # [prog]  : Burp Suite Pro Installer Script                  #
-# [dev]   : A Divinemonk creation!                           #
-# [git]   : https://github.com/Divinemonk/burpsuite_pro      #
+# [dev]   : sudosuraj                                        #
+# [git]   : https://github.com/sudosuraz/Burpy               #
 # [ver]   : v1.0.1                                           #
 # [desc]  : Install Burp Suite Pro on Linux (debian based)   #
 ############################################################## 
