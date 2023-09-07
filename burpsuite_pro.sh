@@ -4,8 +4,7 @@
 # [prog]  : Burp Suite Pro Installer Script                  #
 # [dev]   : sudosuraj                                        #
 # [git]   : https://github.com/sudosuraz/Burpy               #
-# [ver]   : v1.0.1                                           #
-# [desc]  : Install Burp Suite Pro on Linux (debian based)   #
+# [desc]  : Install Burp Suite Pro                           #
 ############################################################## 
 
 
