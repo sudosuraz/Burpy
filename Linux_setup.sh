@@ -23,8 +23,7 @@ ${GR}|___/ \__ _| \__ _| \___/ |___/ \__ _||_|   \__ _|| |${NL}
 ${GR}                                                 _/ |${NL}
 ${GR}                                                |__/ ${NL}
 "
-echo "  This script is made by ${GR}sudosuraj${NL}
-"
+echo "This script is made by ${GR}sudosuraj${NL}"
 
 # Check if Java JDK 19 is installed
 if ! command -v javac >/dev/null 2>&1; then
